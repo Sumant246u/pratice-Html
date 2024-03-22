@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <H5>Internet and basics</H5>
+    <p>Internet is network to network.www stands for world wide web is implemented by Tim Berner's Lee.When we enter goggle .com(url) in broswer ,broswer requests ISP(like jio,Airtel),then it moves to DNS(Domain Name System),it contain IP address of respective domaains.It will lead to server by IP address.server will respond and client receives Html,Css,Js./p>
+    -->Domain(.com,in etc...),url(Uniform Resource Locator ),http vs https(secured)(SSL-Securre Socket Layer Certificate)
+    Basic linus:cd-->change directory
+    cd floder name-->It will make to control forword to another folder _name
+    cd..-->It will make control back to previous folder
+    ls-->List of all
+    mkdir-->Create a directory
+    rkdir-->Delete a directory
+    code editor-->vs code
+    extionson-->live server (ritwik ),preeter(code format)
+    How to maintain a Blog:-
+    We can maintain a basic along in hashnode ,hashnode and dev are famous communicates for developers.
+    Create a account in hashnode and a blog in hashnode.and click write at top and write an article on what you know,
+   Git and GitHub:-
+   GIT IS A appllication which is used for version control.git is a centralized version control systemgit keeps tracks of all your version,changes and updTE.
+   Git will contain Threee Phases.
+   Working phases/working area:git init
+   Stageing phase /staging area:git add .
+   Local Repository:git commit -m "message"
+   To solve who are you ?git config --global user.email"your email id"
+   git config --global user .name "username"
+   Github is a platform created by microsoft where developers share, deploy and merge codes
+   How to push your code :git remote add origin  code_"link paste here"
+   git push -u origin main/master (as your git branch name here).
+
+</body>
+</html>
