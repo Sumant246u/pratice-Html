@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Html5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pratice"
+	}
+}
