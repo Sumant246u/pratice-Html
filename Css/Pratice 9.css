@@ -1,0 +1,25 @@
+.bd{
+    /* 3.0 its same like 0.0,5.0,2.0 color is light */
+
+    /* #00000 is show in black color */
+    /* background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg); */
+    /* bg repeat is use for image repeat and no-repeat means only 1 image will come */
+    /* background-repeat:no-repeat;
+    background-size: cover;
+    background-color: rgb(155, 181, 128,3.0) 
+    !important;   */
+    /* linear grident means mixture of color. */
+    background: linear-gradient(to bottom,red,blue,green,blue,white,yellow);
+    /* radial-gradient- */
+    /* background: radial-gradient(red,blue,green, yellow,white); */
+    height: 100vh;
+    color: aqua;
+}
+p{
+    text-align: center;
+}
+#para1,#para2{
+    background-color: rgba(0, 255, 255, 0);
+    border: 1px solid yellowgreen;
+    padding-bottom: 50px;
+}
